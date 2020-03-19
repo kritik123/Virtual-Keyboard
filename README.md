@@ -1,4 +1,4 @@
-# On-Screen-Keyboard
+# Virtual Keyboard
 
 ### About
 A virtual keyboard with cool effects and key functionalities.
